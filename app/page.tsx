@@ -19,7 +19,7 @@ export default function Home() {
 
       <div className="flex flex-row space-x-4">
         <a
-          href="www.linkedin.com/in/ahmad-al-haddad-394b5710"
+          href="https://www.linkedin.com/in/ahmad-al-haddad-394b5710"
           className="hover:text-zinc-400"
         >
           <Icon path={mdiLinkedin} size={1} />
