@@ -4,7 +4,7 @@ import { mdiGithub, mdiLinkedin, mdiTwitter } from "@mdi/js";
 
 export default function Home() {
   return (
-    <main className="flex flex-col items-center justify-center gap-4 p-12 bg-zinc-900/50 border border-zinc-700/50 rounded-xl">
+    <main className="flex flex-col items-center justify-center gap-4 p-12 rounded-xl">
       <Image
         src="/personal-photo.jpg"
         width={80}
